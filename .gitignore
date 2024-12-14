@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.gif
+
+__pycache__/
+.pylint.d/
